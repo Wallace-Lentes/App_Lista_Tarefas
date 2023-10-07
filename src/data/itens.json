@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "nome": "Fazer a lição de casa",
+        "isDone" : false
+    },
+    {
+        "id":2,
+        "nome": "ARRUMAR a caixa da água",
+        "isDone" : true
+    },
+    {
+        "id":3,
+        "nome": "Comprar droga",
+        "isDone" : false
+    },
+    {
+        "id":4,
+        "nome": "Comprar picanha",
+        "isDone" : false
+    },
+    {
+        "id":5,
+        "nome": "Comprar picanha",
+        "isDone" : false
+    },
+    {
+        "id":6,
+        "nome": "Comprar picanha",
+        "isDone" : false
+    },
+    {
+        "id":7,
+        "nome": "Comprar picanha",
+        "isDone" : false
+    }
+]
