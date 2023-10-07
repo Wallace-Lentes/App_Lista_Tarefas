@@ -1,10 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
+import LandingPages from './pages/LandingPages'
+import { GlobalStyle } from './style/GlobalStyle'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <GlobalStyle />
+    <LandingPages />
   </React.StrictMode>,
 )
